@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+sample1,/path/to/sample1_1.fastq.gz,/path/to/sample1_2.fastq.gz
+sample2,/path/to/sample2_1.fastq.gz,/path/to/sample2_2.fastq.gz
